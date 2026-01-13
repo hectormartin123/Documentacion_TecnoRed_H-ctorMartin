@@ -6,7 +6,7 @@ El sistema está pensado para ser utilizado por distintos perfiles. Por un lado,
 
 
 
-¿Por qué la empresa usa Git y no carpetas normales?
+¿Por qué la empresa usa Git y no carpetas normales? Estoy haciendo cambios en README.txt
 
 	Para que las personas de la empresa puedan acceder y trabajar todos con las mismas carpetas, pero si se hace con carpetas normales en ese caso solo trabaja una persona y no se tendría en cuanta que cambios se han hecho y quien los 	ha hecho.
 
